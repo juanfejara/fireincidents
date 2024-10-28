@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fireincidents"
+version = "0.1.0"
+description = "Fire Incidents in San Francisco"
+authors = ["Juan Fernando Jaramillo Botero <juanf.jaramillo@opdevel.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlite4 = "^0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
