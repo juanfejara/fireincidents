@@ -1,4 +1,4 @@
 pandas
 sqlalchemy
-requests
 sqlite4
+sodapy

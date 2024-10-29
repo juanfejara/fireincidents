@@ -6,8 +6,11 @@ authors = ["Juan Fernando Jaramillo Botero <juanf.jaramillo@opdevel.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.9"
 sqlite4 = "^0.1.1"
+pandas = "^2.2.3"
+sqlalchemy = "^2.0.36"
+sodapy = "^2.2.0"
 
 
 [build-system]
